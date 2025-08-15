@@ -60,7 +60,7 @@ Unlike basic spreadsheets or simple lists, Note-E-Movie provides a professional-
 1. **Download** the Note-E-Movie folder to your computer
 2. **Double-click** `run_note_e_movie.bat` (Windows) to launch
    - Automatically installs required dependencies
-   - Loads your existing data from `Watched_csv.csv`
+   - Loads your existing data from `Watched_c.csv`
    - Creates necessary backup directories
 
 3. **Alternative Manual Setup**:
